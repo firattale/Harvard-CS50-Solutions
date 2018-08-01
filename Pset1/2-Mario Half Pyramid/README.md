@@ -2,10 +2,10 @@ Q. Implement a program that prints out a double half-pyramid of a specified heig
 
 $ ./mario
 Height: 4
-   X  X
-  XX  XX
- XXX  XXX
-XXXX  XXXX
+-    X  X
+-   XX  XX
+-  XXX  XXX
+- XXXX  XXXX
 
 More Comfortable Version
 
